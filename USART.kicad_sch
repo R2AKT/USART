@@ -7768,7 +7768,7 @@
 		(uuid "ecdaa8d7-a2a7-4199-bcb5-0379aa603926")
 	)
 	(label "IRQ1"
-		(at 282.956 157.226 180)
+		(at 282.956 169.926 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7778,7 +7778,7 @@
 		(uuid "02187630-fb29-466a-b9c0-e4869eac969e")
 	)
 	(label "IRQ6"
-		(at 282.956 169.926 180)
+		(at 282.956 157.226 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7978,7 +7978,7 @@
 		(uuid "3145317a-aeab-4f39-b219-5abd99ddbac7")
 	)
 	(label "IRQ2"
-		(at 282.956 159.766 180)
+		(at 282.956 167.386 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8328,7 +8328,7 @@
 		(uuid "729eaae0-2677-4754-b239-2688b9d8ad52")
 	)
 	(label "IRQ3"
-		(at 282.956 162.306 180)
+		(at 282.956 164.846 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8478,7 +8478,7 @@
 		(uuid "922fc702-95b8-452f-9840-8cc9a7651e4e")
 	)
 	(label "IRQ4"
-		(at 282.956 164.846 180)
+		(at 282.956 162.306 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8828,7 +8828,7 @@
 		(uuid "d1977aa5-cad5-4770-bfba-37c14b43ab57")
 	)
 	(label "IRQ7"
-		(at 282.956 172.466 180)
+		(at 282.956 154.686 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8928,7 +8928,7 @@
 		(uuid "f360c76f-6716-45c2-bc00-677989703acf")
 	)
 	(label "IRQ5"
-		(at 282.956 167.386 180)
+		(at 282.956 159.766 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8968,7 +8968,7 @@
 		(uuid "fc72bb7b-af29-41f2-b7d0-f4b627be6fa1")
 	)
 	(label "IRQ0"
-		(at 282.956 154.686 180)
+		(at 282.956 172.466 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9579,6 +9579,12 @@
 			(project "USART"
 				(path "/5826f3ef-3acb-4b1a-ae83-bf5ef77f866a"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -10690,6 +10696,12 @@
 					(unit 1)
 				)
 			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11558,6 +11570,12 @@
 			(project "USART"
 				(path "/5826f3ef-3acb-4b1a-ae83-bf5ef77f866a"
 					(reference "#PWR22")
+					(unit 1)
+				)
+			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -12949,6 +12967,12 @@
 					(unit 1)
 				)
 			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13015,6 +13039,12 @@
 			(project "USART"
 				(path "/5826f3ef-3acb-4b1a-ae83-bf5ef77f866a"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -13743,6 +13773,12 @@
 					(unit 1)
 				)
 			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13878,6 +13914,12 @@
 			(project "USART"
 				(path "/5826f3ef-3acb-4b1a-ae83-bf5ef77f866a"
 					(reference "#PWR20")
+					(unit 1)
+				)
+			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -14501,6 +14543,12 @@
 			(project "USART"
 				(path "/5826f3ef-3acb-4b1a-ae83-bf5ef77f866a"
 					(reference "#PWR21")
+					(unit 1)
+				)
+			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -15367,7 +15415,7 @@
 				)
 			)
 		)
-		(property "Value" "2457,6 kHz"
+		(property "Value" "1843,2 kHz"
 			(at 360.934 191.008 0)
 			(effects
 				(font
@@ -15418,6 +15466,12 @@
 			(project "USART"
 				(path "/5826f3ef-3acb-4b1a-ae83-bf5ef77f866a"
 					(reference "ZQ1")
+					(unit 1)
+				)
+			)
+			(project "K580"
+				(path "/d39f0047-e7e5-4cec-bc5c-1058f4d3a193/32ee06fd-3e97-45bf-b93e-6643f1e6a498"
+					(reference "ZQ?")
 					(unit 1)
 				)
 			)

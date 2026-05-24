@@ -1,6 +1,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 License addendum - https://github.com/R2AKT/8080-5-CI/blob/main/Addendum.txt
 # USART
+<img src="USART_top.png">
+
 Serial port module (USART). For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
 
 Based on 580VV51 (8251) and 580VI53 (8253).

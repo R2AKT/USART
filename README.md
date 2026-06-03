@@ -1,5 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-License addendum - https://github.com/R2AKT/8080-5-CI/blob/main/Addendum.txt
+License addendum - https://github.com/R2AKT/USART/blob/main/Addendum.txt
 # USART
 <img src="USART_top.png">
 

@@ -9,7 +9,7 @@ Based on 580VV51 (8251) and 580VI53 (8253).
 
 Status: Tested. Prescaler x1 and x16, speed up to 38400.
 
-Модуль последовательного порта (USART). Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
+Модуль последовательного порта (USART). Для самодельной 8-битной микро-ЭВМ - https://github.com/R2AKT/Mega-80.
 
 На основе 580ВВ51 (8251) и 580ВИ53 (8253).
 

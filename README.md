@@ -3,7 +3,7 @@ License addendum - https://github.com/R2AKT/USART/blob/main/Addendum.txt
 # USART
 <img src="USART_top.png">
 
-Serial port module (USART). For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+Serial port module (USART). For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 Based on 580VV51 (8251) and 580VI53 (8253).
 
